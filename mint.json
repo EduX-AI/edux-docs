@@ -12,7 +12,9 @@
     "dark": "#0050B4"
   },
   "topbarCtaButton": {
-    "type": "github",
+     "logo": {
+        "dark": "/logo/dark.png",
+        "light": "/logo/Light.png",
     "url": "https://github.com/danswer-ai/danswer"
   },
   "anchors": [
