@@ -58,7 +58,7 @@
       ]
     },
     {
-      "group": "Deploy Danswer",
+      "group": "Security",
       "pages": [
         {
           "group": "Deploy with AWS",
